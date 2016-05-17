@@ -73,3 +73,8 @@ Once it's done you can have a repl:
 (cd replProject/ && react-native run-ios)
 (cd replTest/ &&  NODE_PATH=./node_modules/ stack repl)
 ```
+
+## Merging to master
+
+I've created an issue about possible REPL improvments in ghcjs repo (it's damn slow still), you can follow it here:
+https://github.com/ghcjs/ghcjs/issues/483
